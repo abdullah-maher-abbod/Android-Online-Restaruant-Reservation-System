@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/homefragment">
+    <fragment
+        android:id="@+id/homefragment"
+        android:name="com.example.safedining.Homefragment"
+        android:label="fragment_homefragment"
+        tools:layout="@layout/fragment_homefragment" />
+    <fragment
+        android:id="@+id/accountfragment"
+        android:name="com.example.safedining.Accountfragment"
+        android:label="fragment_accountfragment"
+        tools:layout="@layout/fragment_accountfragment" />
+    <fragment
+        android:id="@+id/reservationfragment"
+        android:name="com.example.safedining.Reservationfragment"
+        android:label="fragment_reservationfragment"
+        tools:layout="@layout/fragment_reservationfragment" />
+</navigation>

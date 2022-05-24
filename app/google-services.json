@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "691671540060",
+    "firebase_url": "https://safedining-665cc.firebaseio.com",
+    "project_id": "safedining-665cc",
+    "storage_bucket": "safedining-665cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691671540060:android:b31d2634dd2bac398be199",
+        "android_client_info": {
+          "package_name": "com.example.safedining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691671540060-9rjcrrsu5q20j8h0l18hvdsm7tt93dbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNjnt17rV4bpaEoaEsKjwkYzAHP9Sagm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691671540060-9rjcrrsu5q20j8h0l18hvdsm7tt93dbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
