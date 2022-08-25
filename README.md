@@ -1,5 +1,5 @@
 
- ![image](https://user-images.githubusercontent.com/53852691/186565445-a5975b58-df89-49c1-bfb9-54abc50c4780.png)
+ ![image](https://user-images.githubusercontent.com/53852691/186566423-334fcbd7-2b8c-4bbe-a51c-78021a472aa3.png)
 Figure 44:(start page)
 Target user who views the page: Customer and Staff
 Description: The Customer and Staff will view this page to specify which system they will use.
